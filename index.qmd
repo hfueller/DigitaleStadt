@@ -11,6 +11,7 @@ keywords:
   - Berlin
   - Stadtentwicklung
   - Digitalwirtschaft
+year: 2027
 abstract: |
   Berlin gilt als Paradebeispiel einer nachholenden Metropole, die Digitalwirtschaft als Wachstumsmotor entdeckt hat. Was sind die Hintergründe? Wie sieht die aktuelle Situation der Digitalwirtschaft in Berlin aus und welche Rahmensetzung nimmt die Stadt vor? Welche spezifischen Effekte gehen von der Digitalwirtschaft für die Stadtentwicklung aus? 
 plain-language-summary: |
@@ -37,8 +38,50 @@ Innovation Complex: [@Zukin20Seeing-l] am Beispiel New York – Coworking, Big T
 
 Kasten: Was ist ein „Innovation District"? (Erklärkasten für allgemeines Publikum)
 
+## Berlins digitale Wirtschaft: Entstehung, Akteure, Politiken
 
-## Fazit
+Geschichte: Von der „Armutsökonomie" nach 1990 zur Startup-Metropole (Mitte der 2000er)
+
+Schlüsselakteure: Startups, Big Tech (Googles Campus, etc.), Venture Capital
+
+Geographische Cluster: wo sitzt die Szene? (Mitte, Prenzlauer Berg, Kreuzberg, Friedrichshain; aber auch neue Zukunftsorte wie Adlershof)
+
+Aktuelle Lage der Berliner Startup-Szene: Konkurrenz durch München (Ernst & Young 2025), aber Berlin weiter vorn bei Gründungen und Deals
+
+Kasten: Kennzahlen – Investitionsvolumen, Beschäftigung, Top-Branchen (FinTech, MedTech, E-Commerce)
+
+Wirtschaftsförderung: Wie Berlin die Digitalisierung aktiv befördert
+
+## Folgen für die Stadtentwicklung
+
+### Wohnungsmarkt und Gentrification
+
+Nachfragedruck durch gut verdienende Tech-Beschäftigte auf ohnehin angespannte Märkte
+Verdrängung aus innerstädtischen Nachbarschaften
+
+### Kommunale Haushalte
+
+Paradox: Tech-Unternehmen zahlen wenig Gewerbesteuer (Niederlassungsstrukturen, Steuergestaltung)
+Investitionsbedarf der Stadt steigt (Infrastruktur, Bildung), Einnahmen bleiben hinter Erwartungen zurück
+
+### Soziale Polarisierung
+
+Spaltung in hochqualifizierte, gut bezahlte Tech-Jobs vs. prekäre Plattformarbeit (Lieferdienste, Gig Economy – Griesbach 2019)
+Räumliche Dimension: wachsende Ungleichheiten zwischen Quartieren
+**Kasten**: Deliveroo, Gorillas & Co. – Berlins Plattformarbeiter:innen
+
+## Was tun? Perspektiven für eine sozial verträgliche Digitalstadt
+
+Steuerung statt bloßer Förderung: Gemeinwohlorientierung in der Wirtschaftsförderung
+Mietrecht und Bodenpolitik als flankierende Instrumente
+Mindestlohn und Regulierung von Plattformarbeit
+Partizipation und digitale Souveränität: Wem gehören Daten aus der Stadt? (Calderon-Lüning)
+Internationale Beispiele: Barcelona als Gegenmodell (Digital Sovereignty-Ansatz)
+
+## Fazit: Digitale Stadt für wen?
+
+Zusammenfassung der zentralen Spannungslinie: wirtschaftliche Dynamisierung vs. soziale Exklusion
+Plädoyer für eine reflexive Digitalpolitik, die Stadtentwicklung und Verteilungsfragen zusammen denkt
 
 ## References {.unnumbered}
 
